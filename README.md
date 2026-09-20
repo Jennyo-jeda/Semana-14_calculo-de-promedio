@@ -51,7 +51,3 @@ print(f"El promedio de las tres notas es: {resultado:.2f}")
 Jenny Ojeda
 - Materia: Fundamentos de Programación Básica
 - Fecha de entrega: 20/09/2026
-
-## Licencia
-
-Este proyecto es de uso académico y educativo.
